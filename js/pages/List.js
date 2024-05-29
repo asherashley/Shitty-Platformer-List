@@ -109,10 +109,10 @@ export default {
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        An entire playthrough of the level isn't necessarily required, but is very helpful. If there will be checkpoint cuts, ensure that each segment has sufficient previous death attempts (about 1-2 deaths is fine) and that there will be no cut in the middle of the segment.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must also show the endstats, or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes
